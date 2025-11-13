@@ -1,0 +1,11 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# General temps
+*.tmp
+*.bak
+Thumbs.db  # Windows junk
+.DS_Store  # Mac junk if you switch devices
